@@ -32,5 +32,5 @@
 
 [![Linkedin: Lucas Gabriell Sarmento](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-gabriell-sarmento-702331190/)](https://www.linkedin.com/in/lucas-gabriell-sarmento-702331190/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucas.gabriell97@hotmail.com)](mailto:lucas.gabriell97@hotmail.com)
-[![Whatsapp](https://img.shields.io/badge/987119343-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP)](987119343)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5582987119343)](https://wa.me/5582987119343)
 [![GitHub Lucas Gabriell](https://img.shields.io/github/followers/lucasgabriell97?label=follow&style=social)](https://github.com/lucasgabriell97)
