@@ -1,7 +1,7 @@
 ## 👋 Olá, meu nome é <strong>{Lucas Gabriell}!</strong>
 
 - 💻 Eu sou Desenvolvedor Frontend; 
-- 💼 Atualmente estagiando como Frontend pela CASAL;
+- 💼 Atualmente estagiando como Frontend pelo Poder Judiciário de Alagoas - TJAL;
 - 📚 Cursando Sistemas de Informação - 6° Período - Estácio;
 
 ---
@@ -11,8 +11,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
-![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 
 ---
 
