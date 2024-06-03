@@ -1,8 +1,8 @@
 ## 👋 Olá, meu nome é <strong>{Lucas Gabriell}!</strong>
 
 - 💻 Eu sou Desenvolvedor Frontend; 
-- 💼 Atualmente estagiando como Frontend pelo Poder Judiciário de Alagoas - TJAL;
-- 📚 Cursando Sistemas de Informação - 6° Período - Estácio;
+- 💼 Atualmente em contrato CLT pela G4F, prestando serviço para o Poder Judiciário de Alagoas - TJAL;
+- 📚 Cursando Sistemas de Informação - 8° Período - Estácio;
 
 ---
 
