@@ -1,8 +1,8 @@
 ## 👋 Olá, meu nome é <strong>{Lucas Gabriell}!</strong>
 
 - 💻 Eu sou Desenvolvedor Frontend; 
-- 💼 Atualmente em contrato CLT pela G4F, prestando serviço para o Poder Judiciário de Alagoas - TJAL;
-- 📚 Cursando Sistemas de Informação - 8° Período - Estácio;
+- 💼 Atualmente estou em busca de novas oportunidades de emprego;
+- 📚 Graduado em Sistemas de Informação - Estácio;
 
 ---
 
@@ -12,8 +12,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
+![React.js](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
 
 ---
 
